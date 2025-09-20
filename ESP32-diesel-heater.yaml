@@ -126,14 +126,6 @@ sensor:
       id(output_temperature).publish_state((int16_t)x[13]);
       return 0;
 
-switch:
-  - platform: gpio
-    pin: GPIO32
-    name: "Pompa wody"
-  - platform: gpio
-    pin: GPIO4
-    name: "Cyrkulacja wody"
-
 number:
   - platform: template
     name: "Fan"
