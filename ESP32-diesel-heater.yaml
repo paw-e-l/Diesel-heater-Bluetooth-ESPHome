@@ -45,10 +45,12 @@ globals:
     type: int
     restore_value: no
     initial_value: '0'
+
   - id: last_received_level
     type: float
     restore_value: no
     initial_value: '0'
+    
   - id: last_set_level
     type: float
     restore_value: no
