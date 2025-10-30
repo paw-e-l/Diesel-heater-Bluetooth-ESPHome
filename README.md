@@ -9,12 +9,12 @@ This project provides a configuration for interacting with the AirHeaterCC compa
 <img height="400" alt="mainboard-screen" src="https://github.com/user-attachments/assets/1406ca46-ed51-4f94-902a-a728558defa4" />
 
 I bought this for my non-bluetooth generic diesel heater to remotely control the device.
-This combo costs 25$ in the time of writing. You can order it here https://s.click.aliexpress.com/e/_c43EzjEX if you want to add bluetooth communication to your existing diesel heater.
+This combo costs 25$ in the time of writing. You can order it here https://s.click.aliexpress.com/e/_c2xAGszD if you want to add bluetooth communication to your existing diesel heater.
 
 ### Complete diesel heater
 <img height="400" alt="dh" src="https://github.com/user-attachments/assets/61b9acfd-64a3-41f0-b29c-1a4c8f2e0a1d" />
 
-FDIK model with this display is supported https://s.click.aliexpress.com/e/_c4rjHKD5
+FDIK model with this display is supported https://s.click.aliexpress.com/e/_c4qjtsDt
 
 ## Important Note
 This project is created for educational purposes and automation of the diesel air heater. Use the software at your own risk. The author is not responsible for any damage resulting from the use of the code.
